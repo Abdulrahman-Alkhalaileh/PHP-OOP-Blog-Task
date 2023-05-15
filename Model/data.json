@@ -1,0 +1,122 @@
+{
+    "Users": [
+        {
+            "username": "abdulrahman",
+            "password": "abd",
+            "userType": "visitor",
+            "name": "abd"
+        },
+        {
+            "username": "omar",
+            "password": "omar",
+            "userType": "author",
+            "fullName": "Omar Ahmad",
+            "age": "23",
+            "agency": "leading point",
+            "posts": [
+                {
+                    "title": "this is title",
+                    "content": "this is content",
+                    "date": "1-2-2019",
+                    "likes": 0
+                },
+                {
+                    "title": "Second Post",
+                    "content": "This is the content of the second post.",
+                    "date": "1-2-2022",
+                    "likes": 0
+                },
+                {
+                    "title": "third Post",
+                    "content": "This is the content of the second post.",
+                    "date": "1-2-2023",
+                    "likes": 1
+                },
+                {
+                    "title": "fourth Post",
+                    "content": "This is the content of the second post.",
+                    "date": "3-2-2023",
+                    "likes": 0
+                },
+                {
+                    "title": "ma title",
+                    "content": "ma content",
+                    "date": "14-05-2023",
+                    "likes": 3
+                },
+                {
+                    "title": "obada",
+                    "content": "obada works hard",
+                    "date": "14-05-2023",
+                    "likes": 6
+                }
+            ]
+        },
+        {
+            "username": "hussain",
+            "password": "hussain",
+            "userType": "author",
+            "fullName": "hussain Anabtawi",
+            "age": 21,
+            "agency": "leading point",
+            "posts": [
+                {
+                    "title": "task",
+                    "content": "make oop task",
+                    "date": "14-05-2023",
+                    "likes": 0
+                },
+                {
+                    "title": "task 2",
+                    "content": "install magento using docker composer",
+                    "date": "14-05-2023",
+                    "likes": 1
+                }
+            ]
+        },
+        {
+            "username": "mohammad",
+            "password": "mohammad",
+            "userType": "author",
+            "fullName": "mohammad ahmad",
+            "age": 61,
+            "agency": "altaif",
+            "posts": [
+                {
+                    "title": "UAE",
+                    "content": "I have worked in Abudhabi for 13 years",
+                    "date": "14-05-2023",
+                    "likes": 0
+                }
+            ]
+        },
+        {
+            "username": "hasan",
+            "password": "hasan",
+            "userType": "author",
+            "fullName": "hasan hassanen",
+            "age": 61,
+            "agency": "altaif",
+            "posts": [
+                {
+                    "title": "monday",
+                    "content": "tomorrow is monday",
+                    "date": "14-05-2023",
+                    "likes": 1
+                },
+                {
+                    "title": "php project",
+                    "content": "i love oop in php",
+                    "date": "15-05-2023",
+                    "likes": 0
+                }
+            ]
+        },
+        {
+            "username": "ibrahem",
+            "password": "ibrahem",
+            "userType": "visitor",
+            "name": "ibrahem"
+        }
+    ]
+}
